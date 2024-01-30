@@ -2,7 +2,7 @@
 const reviews = [
     {
         id: 1,
-        nome: 'Susan Smith',
+        nome: 'Andréia Santos',
         profissao: 'Web Developer',
         img: 'https://www.course-api.com/images/people/person-1.jpeg',
         texto: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum numquam nemo voluptate ab unde, beatae sapiente, nobis voluptatum hic odio sed ducimus quibusdam sint a aperiam debitis velit. Quas, ea."
@@ -10,7 +10,7 @@ const reviews = [
 
     {
         id: 2,
-        nome: 'Anna Johnson',
+        nome: 'Giovana Golveia',
         profissao: 'Web designer',
         img: 'https://www.course-api.com/images/people/person-2.jpeg',
         texto: 'Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.'
@@ -18,7 +18,7 @@ const reviews = [
       
     {
         id: 3,
-        nome: 'Peter Jones',
+        nome: 'Pedro Noronha',
         profissao: 'Estagiário',
         img: 'https://www.course-api.com/images/people/person-4.jpeg',
         texto: 'Sriracha literally flexitarian irony, vape marfa unicorn. Glossier tattooed 8-bit, fixie waistcoat offal activated charcoal slow-carb marfa hell of pabst raclette post-ironic jianbing swag.'
@@ -26,7 +26,7 @@ const reviews = [
  
     {
         id: 4,
-        nome: 'Bill Anderson',
+        nome: 'Rafael Silva',
         profissao: 'The boss',
         img: 'https://www.course-api.com/images/people/person-3.jpeg',
         texto: 'Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. '
