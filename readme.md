@@ -7,5 +7,5 @@ Tecnologias utilizadas: html, css e javascript
 Curiosidades: layout responsivo, ou seja, se adaptará aos mais variados tamanhos de telas.
 
 <div align='center'>
-    <img src="screenshot/carrossel.gif">
+    <img src="screenshots/carrossel.gif">
 </div>
